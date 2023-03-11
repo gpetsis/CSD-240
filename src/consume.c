@@ -4,8 +4,6 @@
 #include "../main/pss.h"
 #include "consume.h"
 
-// asdqsfdas
-
 
 struct TreeInfo* pointToRightest(struct TreeInfo* root){
     struct TreeInfo* current = root;
